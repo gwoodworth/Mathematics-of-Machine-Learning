@@ -1,2 +1,8 @@
-Graduate Seminar in mathematics (M651) from Spring 2022.
+Graduate Seminar in mathematics (M651) from Spring 2022 at UAF.
 Convolutions-3.pdf contains the slides for an introductory talk I gave about using convolutions for machine learning.
+Course Description:
+"This seminar is a participant-driven exploration of mathematical aspects of machine learning, including any related topics of interest, not limited to neural networks. We will start from the basic ideas that underlie neural networks, from an applied mathematics perspective, and branch out from there.
+
+We hope to include any interested students and faculty from across UAF. The mathematics should at the introductory graduate or advanced undergraduate level, and any related, compelling application of mathematics is fair game!
+
+Software libraries and statistical concepts are valuable topics for discussion and demonstration, and topics from statistics and computer science are welcome, but they might be covered elsewhere, e.g. in STAT 621 Nonparametric Statistics and CS 605 Artificial Intelligence graduate courses."
